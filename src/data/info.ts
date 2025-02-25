@@ -22,6 +22,17 @@ export const info = {
         "- Fixing UI issues and integrating backend APIs.",
       ],
     },
+    {
+      name: "Genesys Tech - Blog",
+      location: "Indeonesia",
+      startDate: "Des 2024",
+      endDate: "Present",
+      description: [
+        "- Developing screens and UI components for the web application using AstroJS and Tailwind.",
+        "- Fixing UI issues and integrating backend APIs.",
+      ],
+    },
+    
   ],
 
   education: [
@@ -58,6 +69,13 @@ export const info = {
       thumbnail: "/assets/images/bellonime.png",
       githubUrl: "https://github.com/jabreak",
       liveUrl: "https://bellonime.web.id",
+    },
+    {
+      title: "Genesys Tech - Blog",
+      isFeatured: true,
+      thumbnail: "/assets/images/full_page_screenshot.png",
+      githubUrl: "https://github.com/jabreak/portofolio",
+      liveUrl: "https://www.genesystech.web.id",
     },
   ],
 };
