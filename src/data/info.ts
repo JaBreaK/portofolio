@@ -77,5 +77,12 @@ export const info = {
       githubUrl: "https://github.com/jabreak/portofolio",
       liveUrl: "https://www.genesystech.web.id",
     },
+    {
+      title: "DYE Apparel",
+      isFeatured: true,
+      thumbnail: "/assets/images/dyeapparel.png",
+      githubUrl: "https://github.com/jabreak/kp-dyesablon",
+      liveUrl: "https://www.kp-dyesablon.vercel.app",
+    },
   ],
 };
