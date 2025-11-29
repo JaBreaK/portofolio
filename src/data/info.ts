@@ -64,11 +64,25 @@ export const info = {
 
   projects: [
     {
-      title: "Bellonime",
+      title: "Bellonime - otakudesu",
       isFeatured: true,
       thumbnail: "/assets/images/bellonime.png",
       githubUrl: "https://github.com/jabreak",
-      liveUrl: "https://bellonime.web.id",
+      liveUrl: "https://bello.web.id",
+    },
+    {
+      title: "Bellonime - samehadaku",
+      isFeatured: true,
+      thumbnail: "/assets/images/same.bellonime.png",
+      githubUrl: "https://github.com/jabreak",
+      liveUrl: "https://same.bello.web.id",
+    },
+    {
+      title: "Bellonime - winbu",
+      isFeatured: true,
+      thumbnail: "/assets/images/winbu.bello.png",
+      githubUrl: "https://github.com/jabreak",
+      liveUrl: "https://winbu.bello.web.id",
     },
     {
       title: "Genesys Tech - Blog",
